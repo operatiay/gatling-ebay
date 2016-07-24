@@ -1,0 +1,126 @@
+RUN	com.ab.test.ebay.RecordedSimulation		recordedsimulation	1469320650394	 	2.0
+USER	User searchiPhone	1	START	1469320651060	1469320651060
+USER	User searchSamsung Galaxy	2	START	1469320651673	1469320651673
+USER	User searchSony Xperia	3	START	1469320651674	1469320651674
+REQUEST	User searchiPhone	1		load ebay homepage	1469320651078	1469320652162	OK	 
+REQUEST	User searchSamsung Galaxy	2		load ebay homepage	1469320651673	1469320652168	OK	 
+REQUEST	User searchiPhone	1		yf2w1vnrba4vtmezrtkvtww4xmm.css	1469320652535	1469320652896	OK	 
+REQUEST	User searchiPhone	1		8930_UK_Retail_Wine_Doodle150x30.png	1469320652752	1469320652895	OK	 
+REQUEST	User searchiPhone	1		imgThrobberGrey_30x30.gif	1469320652753	1469320652895	OK	 
+REQUEST	User searchiPhone	1		t3ghm32ltyywdgasqxn5ibjadej.js	1469320652751	1469320652896	OK	 
+REQUEST	User searchiPhone	1		8306_UK_C2C_PriceGuarantee_BREC_300x130.png	1469320652754	1469320652896	OK	 
+REQUEST	User searchiPhone	1		fxxj3ttftm5ltcqnto1o4baovyl.png	1469320652752	1469320652895	OK	 
+REQUEST	User searchiPhone	1		91ca4e68-8447-4318-81fb-a01d9c9b100d899345.jpg	1469320652324	1469320653045	OK	 
+REQUEST	User searchiPhone	1		xv1wcuzedq4g5elyftufl5ijcuz.js	1469320653102	1469320653155	OK	 
+REQUEST	User searchSamsung Galaxy	2		8930_UK_Retail_Wine_Doodle150x30.png	1469320653081	1469320653186	OK	 
+REQUEST	User searchSamsung Galaxy	2		fxxj3ttftm5ltcqnto1o4baovyl.png	1469320653080	1469320653187	OK	 
+REQUEST	User searchSamsung Galaxy	2		t3ghm32ltyywdgasqxn5ibjadej.js	1469320653080	1469320653198	OK	 
+REQUEST	User searchSamsung Galaxy	2		imgThrobberGrey_30x30.gif	1469320653082	1469320653203	OK	 
+REQUEST	User searchSamsung Galaxy	2		yf2w1vnrba4vtmezrtkvtww4xmm.css	1469320653079	1469320653217	OK	 
+REQUEST	User searchSamsung Galaxy	2		xv1wcuzedq4g5elyftufl5ijcuz.js	1469320653187	1469320653235	OK	 
+REQUEST	User searchSamsung Galaxy	2		rlwklslnm21afp2dqibvki1yxil.js	1469320653188	1469320653301	OK	 
+REQUEST	User searchSamsung Galaxy	2		jmalt0eyvq1k1k2ezqntv51k5mo.js	1469320653083	1469320653304	OK	 
+REQUEST	User searchiPhone	1		e86094f20bf63d20dd983041faae54792e190566	1469320652755	1469320653315	OK	 
+REQUEST	User searchSony Xperia	3		load ebay homepage	1469320651674	1469320653392	OK	 
+REQUEST	User searchiPhone	1		jmalt0eyvq1k1k2ezqntv51k5mo.js	1469320653101	1469320653396	OK	 
+REQUEST	User searchiPhone	1		e86094f20bf63d20dd983041faae54792e190566 Redirect 1	1469320653317	1469320653400	OK	 
+REQUEST	User searchSamsung Galaxy	2		28bbb882446c4e01901a77d8e16b7bd2f5298e4d	1469320653078	1469320653434	OK	 
+REQUEST	User searchSony Xperia	3		imgThrobberGrey_30x30.gif	1469320653407	1469320653482	OK	 
+REQUEST	User searchSony Xperia	3		fxxj3ttftm5ltcqnto1o4baovyl.png	1469320653406	1469320653501	OK	 
+REQUEST	User searchSamsung Galaxy	2		28bbb882446c4e01901a77d8e16b7bd2f5298e4d Redirect 1	1469320653435	1469320653586	OK	 
+REQUEST	User searchSony Xperia	3		8930_UK_Retail_Wine_Doodle150x30.png	1469320653407	1469320653586	OK	 
+REQUEST	User searchSamsung Galaxy	2		?site=3&stg=1&mpt=1469320651796	1469320653084	1469320653586	OK	 
+REQUEST	User searchiPhone	1		?site=3&stg=1&mpt=1469320651793	1469320652961	1469320653587	OK	 
+REQUEST	User searchSony Xperia	3		xv1wcuzedq4g5elyftufl5ijcuz.js	1469320653408	1469320653591	OK	 
+REQUEST	User searchSony Xperia	3		reuqj24eg22tvlzojdqibxydkir.js	1469320653483	1469320653605	OK	 
+REQUEST	User searchiPhone	1		rlwklslnm21afp2dqibvki1yxil.js	1469320653102	1469320653616	OK	 
+REQUEST	User searchSamsung Galaxy	2		8550_UK_Retail_Q2_RefurbTechUpdate_BREC_300x130rr.jpg	1469320652324	1469320653636	OK	 
+REQUEST	User searchSony Xperia	3		jmalt0eyvq1k1k2ezqntv51k5mo.js	1469320653407	1469320653640	OK	 
+REQUEST	User searchSamsung Galaxy	2		e7217d33-1c26-40c5-b6c1-a8e9cfa6f3c7949390.jpg	1469320653083	1469320653644	OK	 
+REQUEST	User searchSony Xperia	3		gpgx0a2k5m52peh4nknokapiyyz.css	1469320653406	1469320653768	OK	 
+REQUEST	User searchSony Xperia	3		?site=3&stg=1&mpt=1469320651822	1469320653408	1469320653768	OK	 
+REQUEST	User searchiPhone	1		?site=3&stg=1&mpt=1469320651793 Redirect 1	1469320653591	1469320654514	OK	 
+REQUEST	User searchSamsung Galaxy	2		?site=3&stg=1&mpt=1469320651796 Redirect 1	1469320653591	1469320654551	OK	 
+REQUEST	User searchSony Xperia	3		?site=3&stg=1&mpt=1469320651822 Redirect 1	1469320653769	1469320654561	OK	 
+REQUEST	User searchSony Xperia	3		search	1469320655580	1469320657201	OK	 
+REQUEST	User searchSony Xperia	3		$_13.png	1469320657222	1469320657872	OK	 
+REQUEST	User searchSony Xperia	3		$(KGrHqZ,!lYE-dW6LJt)BP30LZS(ww~~_3.GIF?set_id=8	1469320657809	1469320657874	OK	 
+REQUEST	User searchSony Xperia	3		$_13.png	1469320657808	1469320657881	OK	 
+REQUEST	User searchSony Xperia	3		$_13.png	1469320657809	1469320657888	OK	 
+REQUEST	User searchiPhone	1		search	1469320655530	1469320657976	OK	 
+REQUEST	User searchSony Xperia	3		qyqrcd0c2u0sbcovn2shn3gkqup.css	1469320657956	1469320658013	OK	 
+REQUEST	User searchSony Xperia	3		iqh5aqisv22nxgc1ut2sa2aea2w.css	1469320657956	1469320658018	OK	 
+REQUEST	User searchSony Xperia	3		xlpinkmdha0kzmevkt33uiseli1.css	1469320657956	1469320658029	OK	 
+REQUEST	User searchSony Xperia	3		vn3hudv3e21xri5gk3kl250boag.css	1469320657957	1469320658030	OK	 
+REQUEST	User searchSony Xperia	3		s_1x2.gif	1469320657957	1469320658032	OK	 
+REQUEST	User searchSony Xperia	3		s.gif	1469320657957	1469320658040	OK	 
+REQUEST	User searchiPhone	1		iqh5aqisv22nxgc1ut2sa2aea2w.css	1469320657998	1469320658072	OK	 
+REQUEST	User searchiPhone	1		s_1x2.gif	1469320657998	1469320658085	OK	 
+REQUEST	User searchiPhone	1		miscffar0y2vfirxu1wspaldg25.css	1469320657998	1469320658085	OK	 
+REQUEST	User searchiPhone	1		s.gif	1469320657999	1469320658089	OK	 
+REQUEST	User searchiPhone	1		icjhdtwlga5xxf0ek1nyzil4j2t.css	1469320657999	1469320658091	OK	 
+REQUEST	User searchiPhone	1		qyqrcd0c2u0sbcovn2shn3gkqup.css	1469320657998	1469320658111	OK	 
+REQUEST	User searchiPhone	1		112056285085_1.jpg	1469320658000	1469320658152	OK	 
+REQUEST	User searchSony Xperia	3		s-l225.jpg	1469320657810	1469320658157	OK	 
+REQUEST	User searchSony Xperia	3		s-l225.jpg	1469320657955	1469320658160	OK	 
+REQUEST	User searchSony Xperia	3		s-l225.jpg	1469320657954	1469320658168	OK	 
+REQUEST	User searchSony Xperia	3		s-l225.jpg	1469320657955	1469320658172	OK	 
+REQUEST	User searchSony Xperia	3		s-l225.jpg	1469320657955	1469320658177	OK	 
+REQUEST	User searchSony Xperia	3		s-l225.jpg	1469320657955	1469320658183	OK	 
+REQUEST	User searchiPhone	1		s2kf1nfelezexewhpzkomit2iai.js	1469320658074	1469320658254	OK	 
+REQUEST	User searchSony Xperia	3		jtf02galv25bdcijtw2er4r5fm5.js	1469320658232	1469320658277	OK	 
+REQUEST	User searchSony Xperia	3		s-l225.jpg	1469320658235	1469320658295	OK	 
+REQUEST	User searchSony Xperia	3		s2kf1nfelezexewhpzkomit2iai.js	1469320658233	1469320658304	OK	 
+REQUEST	User searchSony Xperia	3		s-l225.jpg	1469320658235	1469320658309	OK	 
+REQUEST	User searchSony Xperia	3		s-l225.jpg	1469320658236	1469320658315	OK	 
+REQUEST	User searchiPhone	1		s-l225.jpg	1469320657997	1469320658321	OK	 
+REQUEST	User searchiPhone	1		s-l225.jpg	1469320657996	1469320658328	OK	 
+REQUEST	User searchSony Xperia	3		m904JreWDkLDlIt4tKro2Dg.jpg	1469320657960	1469320658333	OK	 
+REQUEST	User searchiPhone	1		m6iJam9JXgsjUpa2rjOM4bA.jpg	1469320657993	1469320658335	OK	 
+REQUEST	User searchiPhone	1		s-l225.jpg	1469320657996	1469320658353	OK	 
+REQUEST	User searchiPhone	1		s-l225.jpg	1469320657997	1469320658362	OK	 
+REQUEST	User searchiPhone	1		s-l225.jpg	1469320658329	1469320658386	OK	 
+REQUEST	User searchiPhone	1		s-l225.jpg	1469320657997	1469320658388	OK	 
+REQUEST	User searchSony Xperia	3		icjhdtwlga5xxf0ek1nyzil4j2t.css	1469320657957	1469320658441	OK	 
+REQUEST	User searchSony Xperia	3		mCU73Kv-dlq9a5jeiCOYRkA.jpg	1469320657958	1469320658452	OK	 
+REQUEST	User searchSony Xperia	3		13t4fke1my2x3etdmf2kxmgydi1.js	1469320657958	1469320658460	OK	 
+REQUEST	User searchSony Xperia	3		4mdzxka0wi1lbokht2zefoi41m5.js	1469320658234	1469320658474	OK	 
+REQUEST	User searchiPhone	1		jtf02galv25bdcijtw2er4r5fm5.js	1469320657999	1469320658540	OK	 
+REQUEST	User searchiPhone	1		s-l225.jpg	1469320658321	1469320658580	OK	 
+REQUEST	User searchiPhone	1		13t4fke1my2x3etdmf2kxmgydi1.js	1469320657999	1469320658588	OK	 
+REQUEST	User searchiPhone	1		s-l225.jpg	1469320658354	1469320658641	OK	 
+REQUEST	User searchiPhone	1		txded1qmjyyunocfypjbd2u2iu3.js	1469320658086	1469320658661	OK	 
+REQUEST	User searchSamsung Galaxy	2		search	1469320655569	1469320658673	OK	 
+REQUEST	User searchSamsung Galaxy	2		iqh5aqisv22nxgc1ut2sa2aea2w.css	1469320658689	1469320658735	OK	 
+REQUEST	User searchSamsung Galaxy	2		40miyrdwyiz1zjfzs0eb01xuzyg.css	1469320658689	1469320658758	OK	 
+REQUEST	User searchSamsung Galaxy	2		vn3hudv3e21xri5gk3kl250boag.css	1469320658690	1469320658760	OK	 
+REQUEST	User searchSamsung Galaxy	2		s_1x2.gif	1469320658690	1469320658761	OK	 
+REQUEST	User searchSamsung Galaxy	2		s.gif	1469320658690	1469320658762	OK	 
+REQUEST	User searchSamsung Galaxy	2		$_13.png	1469320658686	1469320658768	OK	 
+REQUEST	User searchSamsung Galaxy	2		$_13.png	1469320658686	1469320658770	OK	 
+REQUEST	User searchSamsung Galaxy	2		mtU1Y-0GrclWvJJqlMCsGrw.jpg	1469320658686	1469320658778	OK	 
+REQUEST	User searchSamsung Galaxy	2		$_13.png	1469320658686	1469320658782	OK	 
+REQUEST	User searchSamsung Galaxy	2		s-l225.jpg	1469320658687	1469320658788	OK	 
+REQUEST	User searchSamsung Galaxy	2		qyqrcd0c2u0sbcovn2shn3gkqup.css	1469320658689	1469320658793	OK	 
+REQUEST	User searchSamsung Galaxy	2		s-l225.jpg	1469320658788	1469320658844	OK	 
+REQUEST	User searchSamsung Galaxy	2		s-l225.jpg	1469320658845	1469320658882	OK	 
+REQUEST	User searchSamsung Galaxy	2		s-l225.jpg	1469320658687	1469320658917	OK	 
+REQUEST	User searchSamsung Galaxy	2		s-l225.jpg	1469320658686	1469320658925	OK	 
+REQUEST	User searchSamsung Galaxy	2		s-l225.jpg	1469320658687	1469320658930	OK	 
+REQUEST	User searchSamsung Galaxy	2		jtf02galv25bdcijtw2er4r5fm5.js	1469320658737	1469320658938	OK	 
+REQUEST	User searchSamsung Galaxy	2		s-l225.jpg	1469320658883	1469320658942	OK	 
+REQUEST	User searchSamsung Galaxy	2		s-l225.jpg	1469320658687	1469320658946	OK	 
+REQUEST	User searchSamsung Galaxy	2		mktfuxm2Fu0KpPyxDMkQixQ.jpg	1469320658688	1469320658950	OK	 
+REQUEST	User searchSamsung Galaxy	2		s-l225.jpg	1469320658687	1469320658956	OK	 
+REQUEST	User searchSamsung Galaxy	2		s2kf1nfelezexewhpzkomit2iai.js	1469320658760	1469320658983	OK	 
+REQUEST	User searchSamsung Galaxy	2		txded1qmjyyunocfypjbd2u2iu3.js	1469320658761	1469320659014	OK	 
+REQUEST	User searchSamsung Galaxy	2		icjhdtwlga5xxf0ek1nyzil4j2t.css	1469320658690	1469320659092	OK	 
+REQUEST	User searchiPhone	1		s-l225.jpg	1469320657997	1469320659116	OK	 
+REQUEST	User searchSamsung Galaxy	2		13t4fke1my2x3etdmf2kxmgydi1.js	1469320658690	1469320659138	OK	 
+REQUEST	User searchiPhone	1		$_13.png	1469320657993	1469320659211	OK	 
+REQUEST	User searchiPhone	1		$_13.png	1469320657992	1469320659216	OK	 
+REQUEST	User searchiPhone	1		$(KGrHqRHJDQE+(h5jbZQBP2,3UgVKw~~_3.GIF?set_id=8	1469320657993	1469320659221	OK	 
+REQUEST	User searchiPhone	1		$_57.JPG?set_id=80000000000	1469320657992	1469320659292	OK	 
+USER	User searchSony Xperia	3	END	1469320651674	1469320660482
+USER	User searchSamsung Galaxy	2	END	1469320651673	1469320661150
+USER	User searchiPhone	1	END	1469320651060	1469320661299

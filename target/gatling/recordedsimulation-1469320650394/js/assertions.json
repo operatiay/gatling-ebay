@@ -1,0 +1,10 @@
+{
+  "simulation": "com.ab.test.ebay.RecordedSimulation",
+  "simulationId": "recordedsimulation",
+  "start": 1469320650394,
+  "description": "",
+  "scenarios": ["User searchiPhone", "User searchSamsung Galaxy", "User searchSony Xperia"],
+  "assertions": [
+
+  ]
+}
